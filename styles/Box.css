@@ -1,9 +1,16 @@
 .BoxDiv {
     display: flex;
     justify-content: center;
+   
 }
 .full-width {
     flex: 0.3;
+}
+.center {
+display: flex;
+justify-content: center;
+align-content: center;
+border: 3px solid green;
 }
 p{
     font-size: 20px;
