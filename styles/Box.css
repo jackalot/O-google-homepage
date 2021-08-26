@@ -1,3 +1,9 @@
-#box {
-    background-color: red;
+#abox {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 380px;
+}
+p{
+    font-size: 20px;
 }
