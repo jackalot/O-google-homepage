@@ -1,17 +1,6 @@
-.BoxDiv {
-    display: flex;
-    justify-content: center;
-   
-}
-.full-width {
-    flex: 0.3;
-}
-.center {
-display: flex;
-justify-content: center;
-align-content: center;
-border: 3px solid;
-}
-p{
-    font-size: 20px;
+.one {
+margin-left: auto;
+margin-right: auto;
+width: 30px;
+padding-top: 450px;
 }
