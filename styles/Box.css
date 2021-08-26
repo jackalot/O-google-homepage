@@ -5,7 +5,8 @@ width: 30px;
 padding-top: 250px;
 padding-right: 80px;
 }
-#GoogleSearch {
-   display: flex;
-   justify-content: space-between;
+#searchbuttons {
+    display: grid;
+    grid-column: 2;
+    grid-row: 1;
 }
