@@ -1,8 +1,9 @@
-#abox {
+.BoxDiv {
     display: flex;
     justify-content: center;
-    position: relative;
-    top: 380px;
+}
+.full-width {
+    flex: 0.3;
 }
 p{
     font-size: 20px;
