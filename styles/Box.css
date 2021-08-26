@@ -6,7 +6,6 @@ padding-top: 250px;
 padding-right: 80px;
 }
 #searchbuttons {
-    display: grid;
-    grid-column: 2;
-    grid-row: 1;
+    padding-left: 720px;
+    
 }
