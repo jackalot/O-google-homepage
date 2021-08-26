@@ -7,9 +7,29 @@ ul {
 li {
     float: left;
 }
+/*
+eventually the following buttons will have no backgrounds
+*/
+#About {
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    border: none !important;
+}
 #store {
     margin-left: 20px;
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    border: none !important;
 }
 #Gmail {
     margin-left: 1290px;
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    border: none !important;
+}
+#Images {
+    margin-left: 10px;
+    font-family: Arial, sans-serif;
+    background-color: transparent;
+    border: none !important;
 }
