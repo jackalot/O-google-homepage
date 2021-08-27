@@ -33,3 +33,52 @@ eventually the following buttons will have no backgrounds
     background-color: transparent;
     border: none !important;
 }
+/* footer */
+#Advertising {
+    margin-top: 250px;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    border: none !important;
+}
+#Business {
+    margin-left: 10px;
+    margin-top: 250px;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    border: none !important;
+}
+#How-Search-Works {
+    margin-left: 10px;
+    margin-top: 250px;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    border: none !important;
+}
+#Carbon-Nuetral {
+    margin-left: 500px;
+    margin-top: 250px;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    border: none !important;
+}
+#Privacy {
+    margin-left: 500px;
+    margin-top: 250px;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    border: none !important;
+}
+#Terms {
+    margin-left: 10px;
+    margin-top: 250px;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    border: none !important;
+}
+#Settings {
+    margin-left: 10px;
+    margin-top: 250px;
+    font-family: Arial, sans-serif;
+    background-color: gray;
+    border: none !important;
+}
